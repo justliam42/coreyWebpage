@@ -1,5 +1,5 @@
 const num_mp4 = 4
-const num_jpg = 38
+const num_jpg = 40
 const num_gif = 2
 
 function photos() {
